@@ -12,3 +12,7 @@
 - Maven
 - Java 1.8
 - MongoDB
+
+## Run
+
+- mvn spring-boot:run
